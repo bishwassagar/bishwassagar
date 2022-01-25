@@ -1,6 +1,6 @@
 # ./whoami <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="30px">
 ## *Hi, This is **Bishwas**.* 👋 😄
-### I'm an IT enthusiast who loves what he does. I love to solve code challenges and break stuffs 🤣.
+### I'm an IT enthusiast who loves what he does and break stuffs 🤣.
 
 ### 🌱 What I am studying :
 
