@@ -1,16 +1,19 @@
-### Hi there 👋
+# ./whoami <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="30px">
+## *Hi, This is **Bishwas**.* 👋 😄
+### I'm an IT enthusiast who loves what he does. I love to solve code challenges and break stuffs 🤣.
 
-<!--
-**bishwassagar/bishwassagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 What I am studying :
 
-Here are some ideas to get you started:
+- I'm **improving my knowledges** on `Linux` and `Container orchestration`.
+- I'm **learning** from scratch `Flutter` and `Python`.
+- I’m looking to collaborate on ... ideas and projects and hopefully more in the future!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Ways to Reach Me:
+
+- [Email](mailto:bishwas@tuta.io)
+- [LinkedIn](https://www.linkedin.com/in/bishwassagar)
+- [Telegram](https://twitter.com/bishwassagar)
+
+### ✈️ Blog/Portfolio
+
+- [Personal Website](https://bishwassagar.github.io/)
