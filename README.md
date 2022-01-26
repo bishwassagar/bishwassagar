@@ -12,7 +12,7 @@
 
 - [Email](mailto:bishwas@tuta.io)
 - [LinkedIn](https://www.linkedin.com/in/bishwassagar)
-- [Telegram](https://twitter.com/bishwassagar)
+- [Telegram](https://t.me/BishwasSagar)
 
 ### ✈️ Blog/Portfolio
 
