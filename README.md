@@ -4,8 +4,7 @@
 
 ### 🌱 What I am studying :
 
-- I'm **improving my knowledges** on `Linux` and `Container orchestration`.
-- I'm **learning** from scratch `Flutter` and `Python`.
+- I'm **improving my knowledges** on `Cyber Security`, `Linux` and `Container orchestration`.
 - I’m looking to collaborate on ... ideas and projects and hopefully more in the future!
 
 ### 🔗 Ways to Reach Me:
