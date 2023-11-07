@@ -41,8 +41,4 @@
 ![](https://img.shields.io/badge/Security-Burp_Suite-informational?style=flat&logo=burp-suite&logoColor=white&color=2bbc8a)
 
 ### :pushpin: TryHackMe:
-[<img src="https://tryhackme.com/img/badges/networkfundamentals.svg" width="100px">](https://tryhackme.com/p/BishwasSagar)
-[<img src="https://tryhackme.com/img/badges/streak90.svg" width="100px">](https://tryhackme.com/p/BishwasSagar)
-[<img src="https://tryhackme.com/img/badges/burpsuite.svg" width="100px">](https://tryhackme.com/p/BishwasSagar)
-[<img src="https://tryhackme.com/img/badges/linux.svg" width="100px">](https://tryhackme.com/p/BishwasSagar)
-[<img src="https://tryhackme.com/img/badges/adventofcyber4.svg" width="100px">](https://tryhackme.com/p/BishwasSagar)
+<img src="https://tryhackme-badges.s3.amazonaws.com/BishwasSagar.png" alt="TryHackMe" width="300px">
