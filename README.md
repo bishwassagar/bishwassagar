@@ -27,7 +27,7 @@
 
 ### :notebook_with_decorative_cover: My Blog/Portfolio:
 
-- 🌐 [nottheroot | CySec](https://nottheroot.in/)
+- 🌐 [nottheroot | CySec](https://nottheroot.vercel.app/)
 
 ### :wrench: Tools & Technologies:
 
