@@ -28,7 +28,7 @@
 
 ### :notebook_with_decorative_cover: My Blog/Portfolio:
 
-- 🌐 [Under Construction]
+- 🌐 [Portfolio](https://bishwassagar.netlify.app)
 
 ### :wrench: Tools & Technologies:
 
